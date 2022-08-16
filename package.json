@@ -1,0 +1,23 @@
+{
+  "name": "liatrio-int",
+  "version": "1.0.0",
+  "description": "Simple app for testing rest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kripplek/liatrio-interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kripplek/liatrio-interview/issues"
+  },
+  "homepage": "https://github.com/kripplek/liatrio-interview#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
