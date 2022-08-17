@@ -13,7 +13,7 @@ private_subnet_az3_cidr = "10.10.12.0/24"
 
 ecr_repositories = ["liatrio-int"]
 
-create_eks              = false
+create_eks              = true
 eks_node_instance_count = "2"
 eks_node_instance_type  = ["t3.large"]
 
