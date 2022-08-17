@@ -3,7 +3,7 @@ name: Deploy to Kubernetes to Dev
 on:
   push:
     branches:
-      - dev
+      - main
 
 jobs:
   plan:
