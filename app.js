@@ -5,7 +5,7 @@ const port = 8888
 
 app.get('/', (req, res) => {
   response = {
-      "message": "Automate all the things!", 
+      "message": "Automate all the things and then some", 
       "timestamp": new Date().getTime()
   }
   res.send('!')
